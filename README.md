@@ -1,2 +1,3 @@
 # nebfuscator
-the public version, feel free to skid or wtv
+the public version
+dw u can leak this, its worse than the public version
